@@ -1,19 +1,18 @@
-<h1 align="center">Hello</h1>
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Engineer;System+Design+Focused;NestJS+%7C+Node.js;Building+Scalable+Systems;Async+%7C+Queue+%7C+Realtime" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dinhchung2102&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/dinhchung2102?style=social" />
-  <img src="https://img.shields.io/github/stars/dinhchung2102?style=social" />
-</p>
+### 💻 Core
+[![Core](https://skillicons.dev/icons?i=ts,nodejs,nestjs)](https://skillicons.dev)
 
----
+### 🌐 Frontend
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
 
-## 🧠 About Me
-```diff
-+ Backend-focused developer
-+ Strong interest in system design & scalability
-+ Build systems that handle real-world load, not toy apps
+### 🗄 Database
+[![Database](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+### ⚙️ Infrastructure
+[![Infra](https://skillicons.dev/icons?i=redis,docker)](https://skillicons.dev)
+
+</div>
